@@ -1410,6 +1410,9 @@ body.menu-is-open {
 .light-gray {
   background-color: #f1f1f1;
 }
+.light-white {
+  background-color: #ffffff;
+}
 
 /* ------------------------------------------------------------------- 
  * ## display headings
@@ -2917,6 +2920,7 @@ html.no-csstransitions .home-content__main {
 
 .service-item{
   padding: 5px 0px 5px 0px;
+  background-color: #f1f1f1;
 }
 
 .service-text{
@@ -2996,7 +3000,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  background: #ffffff;
+  background: #f1f1f1;
   padding: 18rem 0 24rem;
   position: relative;
 }
