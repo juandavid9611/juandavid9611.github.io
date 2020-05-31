@@ -191,7 +191,7 @@ p.lead {
   font-size: 2.4rem;
   line-height: 1.625;
   margin-bottom: 3.6rem;
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.8);
 }
 
 @media only screen and (max-width:1200px) {
@@ -2291,7 +2291,7 @@ body.menu-is-open {
   color: #FFFFFF;
   margin: 0;
   position: absolute;
-  bottom: 12.6rem;
+  bottom: 21.6rem;
   left: 6rem;
   z-index: 5;
 }
