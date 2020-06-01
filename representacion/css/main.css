@@ -2063,7 +2063,7 @@ body.menu-is-open {
 .s-home {
   width: 100%;
   height: 100vh;
-  min-height: 786px;
+  min-height: 736px;
   background-color: transparent;
   position: relative;
   display: table;
@@ -2587,7 +2587,7 @@ html.no-csstransitions .home-content__main {
     font-size: 2.7rem;
   }
 
-  .home-social {
+  .mobile-none {
     display: none;
   }
 
